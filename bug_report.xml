@@ -1,5 +1,10 @@
-  <ID>Ruslan</ID>
-  <SAMMURY>2000$</SAMMURY>
-  <SEVERITY>tweak</SEVERITY>
-  <PRIORITY>low</PRIORITY>
-
+<ID> ID бага </ID>
+<Summary> Что? Где? Когда? </Summary>
+<Description> Детальное описание бага </Description>
+<Steps To Reproduce> Шаги воспроизвидения </Steps To Reproduce>
+<Actual and Expected Result> Актуальный и фактический результаты  </Actual and Expected Result>
+<Severity> trivial/text/tweak/minor/major/crash/blocker </Severity>
+<Priority> low/midle/high </Priority>
+<Attachments> фото/видео/логи </Attachments>
+<Environment> платформа на которой воспроизводится дефект </Environment>
+<Build> версия сборки </Build>
